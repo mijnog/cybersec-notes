@@ -47,7 +47,7 @@ Resources for setting up a home lab to practice penetration testing and vulnerab
 ---
 
 ### Bug Bounty Platforms
-Think you’re ready to face the real world? These platforms connect security researchers with companies looking to improve their security.
+These platforms connect hackers with companies looking to improve their security.
 
 - #### [HackerOne](https://www.hackerone.com/)
   A well-known platform for participating in bug bounties and helping secure real-world applications.
