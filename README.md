@@ -1,9 +1,9 @@
-# Cool Links for Cybersecurity 
-A page containing my curated bookmarks on my journey to learning cybersecurity.
+## Cool Links for Cybersecurity 
+A page containing bookmarks for anyone interested in learning cybersecurity.
 
 ---
 
-## Table of Contents
+### Table of Contents
 - [Learning Platforms](#learning-platforms)
 - [Home Lab](#home-lab)
 - [Bug Bounty Platforms](#bug-bounty-platforms)
@@ -15,7 +15,7 @@ A page containing my curated bookmarks on my journey to learning cybersecurity.
 
 ---
 
-## Learning Platforms
+### Learning Platforms
 These platforms are great starting points to build your cybersecurity knowledge and hacking skills.
 
 - #### [OverTheWire](https://overthewire.org/wargames/)
@@ -35,7 +35,7 @@ These platforms are great starting points to build your cybersecurity knowledge 
 
 ---
 
-## Home Lab 🖥️
+### Home Lab 🖥️
 Resources for setting up a home lab to practice penetration testing and vulnerability discovery.
 
 - #### [VulnHub](https://www.vulnhub.com/)
@@ -46,7 +46,7 @@ Resources for setting up a home lab to practice penetration testing and vulnerab
 
 ---
 
-## Bug Bounty Platforms
+### Bug Bounty Platforms
 Think you’re ready to face the real world? These platforms connect security researchers with companies looking to improve their security.
 
 - #### [HackerOne](https://www.hackerone.com/)
