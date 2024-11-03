@@ -35,7 +35,7 @@ These platforms are great starting points to build your cybersecurity knowledge 
 
 ---
 
-### Home Lab 🖥️
+### Home Lab
 Resources for setting up a home lab to practice penetration testing and vulnerability discovery.
 
 - #### [VulnHub](https://www.vulnhub.com/)
