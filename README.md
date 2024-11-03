@@ -102,5 +102,6 @@ Additional interesting resources:
 
 ---
 
-Enjoy the journey! These resources have been incredibly helpful to me and hopefully, they’ll be for you too. 😊
+"A journey of a thousand miles begins with a single step." 
+*- Lao Tzu*
 
