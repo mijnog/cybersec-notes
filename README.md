@@ -15,7 +15,7 @@ A page containing my curated bookmarks on my journey to learning cybersecurity.
 
 ---
 
-## Learning Platforms 🏫
+## Learning Platforms
 These platforms are great starting points to build your cybersecurity knowledge and hacking skills.
 
 - #### [OverTheWire](https://overthewire.org/wargames/)
@@ -46,7 +46,7 @@ Resources for setting up a home lab to practice penetration testing and vulnerab
 
 ---
 
-## Bug Bounty Platforms 💰
+## Bug Bounty Platforms
 Think you’re ready to face the real world? These platforms connect security researchers with companies looking to improve their security.
 
 - #### [HackerOne](https://www.hackerone.com/)
@@ -54,10 +54,10 @@ Think you’re ready to face the real world? These platforms connect security re
 
 ---
 
-## Useful Resources 🛠️
+## Useful Resources
 Additional tools, platforms, and links for building cybersecurity skills.
 
-### Stealth 🕵️‍♂️
+### Stealth
 For secure and anonymous browsing:
 
 - #### [Tor](https://www.torproject.org/)
@@ -68,7 +68,7 @@ For secure and anonymous browsing:
   
 ---
 
-### Information Gathering 🔍
+### Information Gathering
 Critical tools for Open-Source Intelligence (OSINT) and network scanning:
 
 - #### [OSINT Framework](https://osintframework.com/)
@@ -82,7 +82,7 @@ Critical tools for Open-Source Intelligence (OSINT) and network scanning:
 
 ---
 
-### Exploitation 💥
+### Exploitation
 Tools and frameworks for exploit development and vulnerability testing.
 
 - #### [Metasploit](https://www.metasploit.com/)
@@ -90,7 +90,7 @@ Tools and frameworks for exploit development and vulnerability testing.
 
 ---
 
-### Miscellaneous 📚
+### Miscellaneous
 Additional interesting resources:
 
 - #### [Open-Source Malware](https://github.com/BushidoUK/Open-source-Malware/blob/main/GitHubMalware.csv)
