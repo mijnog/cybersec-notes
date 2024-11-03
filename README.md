@@ -1,46 +1,76 @@
-# cool-links-for-cybersecurity
-A page containing my bookmarks on my journey to learning cyber.
+# Cool Links for Cybersecurity 🚀
+A page containing my curated bookmarks on my journey to learning cybersecurity.
 
-## Learning Platforms
-#### [OverTheWire](https://overthewire.org/wargames/)
-One of the first links I ever clicked on when I first became curious about hacking. Can't recommend this enough. Start with band1t and you'll learn command line basics in a fun way. Move on to the harder ones next. Old school is cool.
+---
 
-#### [HackThisSite](https://www.hackthissite.org/)
-Another old-school hacking training website. If you want to bring back 2005 vibes, this is the place to be.
+## Table of Contents
+- [Learning Platforms](#learning-platforms)
+- [Bug Bounty Platforms](#bug-bounty-platforms)
+- [Useful Resources](#useful-resources)
+  - [Stealth](#stealth)
+  - [Information Gathering](#information-gathering)
+  - [Miscellaneous](#miscellaneous)
 
-#### [TryHackMe](https://tryhackme.com/)
-Very beginner-friendly CTF website. Some free content. Premium content is affordable. Expect your hand to be held while we spoon feed you tidbits of information that will help you on your hacker journey. If you're looking for something a bit more challenging, try:
+---
 
-#### [HackTheBox](https://www.hackthebox.com/)
+## Learning Platforms 🏫
+These platforms are great starting points and resources to build your cybersecurity knowledge and hacking skills.
 
-#### [Root-Me](https://www.root-me.org/?lang=en)
-I should probably mention Root-Me since I've mentioned HTB and THM. However, I have found this website to be a bit unuser-friendly, always changing the language to French without asking my permission.
+- #### [OverTheWire](https://overthewire.org/wargames/)
+  One of the first links I ever clicked on when I became curious about hacking. Start with *Bandit* to learn command line basics in a fun way and then tackle harder levels. Old school is cool.
 
-## Bug Bounty Platforms
+- #### [HackThisSite](https://www.hackthissite.org/)
+  Another old-school hacking training site. Great if you want to bring back 2005 vibes!
 
-#### [HackerOne](https://www.hackerone.com/)
-If you think you're ready to face the real world, go here!
+- #### [TryHackMe](https://tryhackme.com/)
+  Beginner-friendly CTF website with free and affordable premium content. *Hand-holding* included, so it's perfect for newcomers. For something more challenging, try:
 
-# Useful Resources
+- #### [HackTheBox](https://www.hackthebox.com/)
+  Known for providing a more challenging environment with hands-on labs for hacking skills.
 
-## Stealth
+- #### [Root-Me](https://www.root-me.org/?lang=en)
+  Root-Me is a well-known platform but can be tricky to navigate due to language settings automatically switching to French.
 
-#### [Tor](https://www.torproject.org/)
+---
 
-#### [Tails OS](https://tails.net/)
+## Bug Bounty Platforms 💰
+Think you’re ready to face the real world? These platforms connect security researchers with companies looking to improve their security.
 
-## Information Gathering
+- #### [HackerOne](https://www.hackerone.com/)
+  A well-known platform for participating in bug bounties and helping secure real-world applications.
 
-#### [OSINT Framework](https://osintframework.com/)
+---
 
-#### [Shodan Internet Search Engine](https://www.shodan.io/)
-(Very powerful - Basic (Lifetime) Membership $49.00)
+## Useful Resources 🛠️
+This section includes various resources, tools, and links for building your cybersecurity skills and knowledge.
 
-#### [Nmap](https://nmap.org/)
-A simple, yet powerful open-source port scanner that's only been getting better since 1997.
+### Stealth 🕵️‍♂️
+For secure and anonymous browsing:
 
-## Miscellaneous
+- #### [Tor](https://www.torproject.org/)
+  Essential for anonymous web browsing.
 
-#### [Open-Source Malware](https://github.com/BushidoUK/Open-source-Malware/blob/main/GitHubMalware.csv)
-Cool list of malware on GitHub to play around with at your own risk!
+- #### [Tails OS](https://tails.net/)
+  A privacy-focused OS that you can run from a USB drive.
 
+### Information Gathering 🔍
+Critical tools for Open-Source Intelligence (OSINT) and network scanning:
+
+- #### [OSINT Framework](https://osintframework.com/)
+  A well-organized resource to aid in information gathering from open sources.
+
+- #### [Shodan Internet Search Engine](https://www.shodan.io/)
+  Powerful search engine for discovering internet-connected devices. Basic membership is $49 for a lifetime.
+
+- #### [Nmap](https://nmap.org/)
+  A simple yet powerful open-source port scanner that's been continually improving since 1997.
+
+### Miscellaneous 📚
+Additional interesting resources:
+
+- #### [Open-Source Malware](https://github.com/BushidoUK/Open-source-Malware/blob/main/GitHubMalware.csv)
+  A list of malware on GitHub to explore at your own risk. Be cautious!
+
+---
+
+Enjoy the journey! These resources have been incredibly helpful to me and hopefully, they’ll be for you too. 😊
