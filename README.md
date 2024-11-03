@@ -88,16 +88,27 @@ Tools and frameworks for exploit development and vulnerability testing.
 - #### [Metasploit](https://www.metasploit.com/)
   A popular open-source framework for developing and executing exploit code against a remote target machine. A must-have for penetration testers.
 
+- #### [sqlmap](https://sqlmap.org/)
+  An open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers.
+
+---
+
+### Post-Exploitation 🔓
+Tools and techniques for gathering credentials, escalating privileges, and persisting access after an initial compromise.
+
+- #### [Mimikatz](https://github.com/gentilkiwi/mimikatz)
+  A powerful post-exploitation tool for extracting credentials, performing privilege escalation, and accessing sensitive information from Windows systems.
+
 ---
 
 ### Miscellaneous
 Additional interesting resources:
 
 - #### [Open-Source Malware](https://github.com/BushidoUK/Open-source-Malware/blob/main/GitHubMalware.csv)
-  A list of malware on GitHub to explore at your own risk. Be cautious!
+  A list of open source malware hosted on github. Easier than reversing in assembly. Can be an eye opener on how various types of malware work.
 
 - #### [MalwareTech Blog](https://malwaretech.com/)
-  Marcus Hutchins' blog, which goes into great technical detail. Marcus famously stopped the WannaCry ransomware attack, and his blog is an excellent resource for deep dives into cybersecurity topics.
+  Marcus Hutchins' blog. Incredibly detailed low-level stuff. Fascinating rabbit holes to go down! (Marcus Hutchins is famous for stopping WannaCry).
 
 
 ---
