@@ -30,6 +30,16 @@ These platforms are great starting points and resources to build your cybersecur
 
 - #### [Root-Me](https://www.root-me.org/?lang=en)
   Root-Me is a well-known platform but can be tricky to navigate due to language settings automatically switching to French.
+  
+---
+
+## Home Lab
+
+- #### [VulnHub](https://www.vulnhub.com/)
+  A platform offering downloadable virtual machines designed to practice penetration testing. It’s a fantastic resource for building hands-on experience with vulnerable systems.
+
+- #### [Damn Vulnerable Web Application (DVWA)](http://www.dvwa.co.uk/)
+  DVWA is a deliberately insecure web application that lets you practice common web vulnerabilities like SQL injection, XSS, and more, in a controlled environment.
 
 ---
 
@@ -52,6 +62,8 @@ For secure and anonymous browsing:
 
 - #### [Tails OS](https://tails.net/)
   A privacy-focused OS that you can run from a USB drive.
+  
+---
 
 ### Information Gathering 🔍
 Critical tools for Open-Source Intelligence (OSINT) and network scanning:
@@ -64,6 +76,13 @@ Critical tools for Open-Source Intelligence (OSINT) and network scanning:
 
 - #### [Nmap](https://nmap.org/)
   A simple yet powerful open-source port scanner that's been continually improving since 1997.
+
+### Exploitation
+
+- #### [Metasploit](https://www.metasploit.com)
+  A popular open-source framework for developing and executing exploit code against a remote target machine. A must have for pen-testers.
+
+---
 
 ### Miscellaneous 📚
 Additional interesting resources:
