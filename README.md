@@ -42,7 +42,7 @@ https://www.shodan.io/
 
 ### Nmap
 https://nmap.org/
-Our beloved portscanner that's only been getting better since 1997
+A simple, yet powerful open sourceportscanner that's only been getting better since 1997
 
 ## Miscellaneous
 
