@@ -1,42 +1,45 @@
-# Cool Links for Cybersecurity 🚀
+# Cool Links for Cybersecurity 
 A page containing my curated bookmarks on my journey to learning cybersecurity.
 
 ---
 
 ## Table of Contents
 - [Learning Platforms](#learning-platforms)
+- [Home Lab](#home-lab)
 - [Bug Bounty Platforms](#bug-bounty-platforms)
 - [Useful Resources](#useful-resources)
   - [Stealth](#stealth)
   - [Information Gathering](#information-gathering)
+  - [Exploitation](#exploitation)
   - [Miscellaneous](#miscellaneous)
 
 ---
 
 ## Learning Platforms 🏫
-These platforms are great starting points and resources to build your cybersecurity knowledge and hacking skills.
+These platforms are great starting points to build your cybersecurity knowledge and hacking skills.
 
 - #### [OverTheWire](https://overthewire.org/wargames/)
-  One of the first links I ever clicked on when I became curious about hacking. Start with *Bandit* to learn command line basics in a fun way and then tackle harder levels. Old school is cool.
+  One of the first links I ever clicked on when I became curious about hacking. Start with *Bandit* to learn command line basics in a fun way, then tackle the harder levels. Old school is cool!
 
 - #### [HackThisSite](https://www.hackthissite.org/)
-  Another old-school hacking training site. Great if you want to bring back 2005 vibes!
+  Another old-school hacking training site.
 
 - #### [TryHackMe](https://tryhackme.com/)
-  Beginner-friendly CTF website with free and affordable premium content. *Hand-holding* included, so it's perfect for newcomers. For something more challenging, try:
+  A beginner-friendly CTF website with free and affordable premium content. *Hand-holding* included, so it's perfect for newcomers. For something more challenging, try Hack The Box.
 
 - #### [HackTheBox](https://www.hackthebox.com/)
-  Known for providing a more challenging environment with hands-on labs for hacking skills.
+  Known for providing a more challenging environment with hands-on labs for developing hacking skills.
 
 - #### [Root-Me](https://www.root-me.org/?lang=en)
-  Root-Me is a well-known platform but can be tricky to navigate due to language settings automatically switching to French.
-  
+  Root-Me is a well-known platform, but can be tricky to navigate due to language settings that often default to French.
+
 ---
 
-## Home Lab
+## Home Lab 🖥️
+Resources for setting up a home lab to practice penetration testing and vulnerability discovery.
 
 - #### [VulnHub](https://www.vulnhub.com/)
-  A platform offering downloadable virtual machines designed to practice penetration testing. It’s a fantastic resource for building hands-on experience with vulnerable systems.
+  A platform offering downloadable virtual machines designed for penetration testing practice. A fantastic resource for building hands-on experience with vulnerable systems.
 
 - #### [Damn Vulnerable Web Application (DVWA)](http://www.dvwa.co.uk/)
   DVWA is a deliberately insecure web application that lets you practice common web vulnerabilities like SQL injection, XSS, and more, in a controlled environment.
@@ -52,7 +55,7 @@ Think you’re ready to face the real world? These platforms connect security re
 ---
 
 ## Useful Resources 🛠️
-This section includes various resources, tools, and links for building your cybersecurity skills and knowledge.
+Additional tools, platforms, and links for building cybersecurity skills.
 
 ### Stealth 🕵️‍♂️
 For secure and anonymous browsing:
@@ -61,7 +64,7 @@ For secure and anonymous browsing:
   Essential for anonymous web browsing.
 
 - #### [Tails OS](https://tails.net/)
-  A privacy-focused OS that you can run from a USB drive.
+  A privacy-focused OS that can be run from a USB drive.
   
 ---
 
@@ -72,15 +75,18 @@ Critical tools for Open-Source Intelligence (OSINT) and network scanning:
   A well-organized resource to aid in information gathering from open sources.
 
 - #### [Shodan Internet Search Engine](https://www.shodan.io/)
-  Powerful search engine for discovering internet-connected devices. Basic membership is $49 for a lifetime.
+  A powerful search engine for discovering internet-connected devices. Basic membership is $49 for a lifetime.
 
 - #### [Nmap](https://nmap.org/)
   A simple yet powerful open-source port scanner that's been continually improving since 1997.
 
-### Exploitation
+---
 
-- #### [Metasploit](https://www.metasploit.com)
-  A popular open-source framework for developing and executing exploit code against a remote target machine. A must have for pen-testers.
+### Exploitation 💥
+Tools and frameworks for exploit development and vulnerability testing.
+
+- #### [Metasploit](https://www.metasploit.com/)
+  A popular open-source framework for developing and executing exploit code against a remote target machine. A must-have for penetration testers.
 
 ---
 
@@ -97,3 +103,4 @@ Additional interesting resources:
 ---
 
 Enjoy the journey! These resources have been incredibly helpful to me and hopefully, they’ll be for you too. 😊
+
