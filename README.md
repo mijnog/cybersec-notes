@@ -71,6 +71,10 @@ Additional interesting resources:
 - #### [Open-Source Malware](https://github.com/BushidoUK/Open-source-Malware/blob/main/GitHubMalware.csv)
   A list of malware on GitHub to explore at your own risk. Be cautious!
 
+- #### [MalwareTech Blog](https://malwaretech.com/)
+  Marcus Hutchins' blog, which goes into great technical detail. Marcus famously stopped the WannaCry ransomware attack, and his blog is an excellent resource for deep dives into cybersecurity topics.
+
+
 ---
 
 Enjoy the journey! These resources have been incredibly helpful to me and hopefully, they’ll be for you too. 😊
