@@ -1,14 +1,14 @@
-##### Check if Kernel / OS is out of date
+- #### Check if Kernel / OS is out of date
 
 Find a known CVE and its related exploits. Make sure you understand what the exploit does so as not to break anything on the server.
 
-##### Look for programs that your user can run with sudo rights
+- #### Look for programs that your user can run with sudo rights
 
 Run `sudo -l`
 
 Use [GTFOBins](https://gtfobins.github.io/) to find information on how binaries with sudo rights can be used.
 
-##### Look for programs with SUID or GUID bit set
+- #### Look for programs with SUID or GUID bit set
 
 ```bash
 find / -type f -perm -04000 -ls 2>/dev/null
@@ -16,7 +16,7 @@ find / -type f -perm -04000 -ls 2>/dev/null
 
 Use [GTFOBins](https://gtfobins.github.io/#+suid) to find attack vectors
 
-##### Find binaries with *Capabilities*
+- #### Find binaries with *Capabilities*
 
 ```bash
 getcap -r / 2>/dev/null
@@ -24,7 +24,7 @@ getcap -r / 2>/dev/null
 
 Use [GTFOBins](https://gtfobins.github.io/) to find attack vectors
 
-##### Look for crontab vulnerabilities
+- #### Look for crontab vulnerabilities
 
 ```bash
 cat /etc/crontab
