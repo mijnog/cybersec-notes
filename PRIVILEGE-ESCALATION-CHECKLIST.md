@@ -2,6 +2,8 @@
 
 Find a known CVE and its related exploits. Make sure you understand what the exploit does so as not to break anything on the server.
 
+---
+
 - #### Look for programs that your user can run with sudo rights
 
 Run `sudo -l`
