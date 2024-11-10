@@ -89,7 +89,7 @@ Tools and frameworks for exploit development and vulnerability testing.
   A popular open-source framework for developing and executing exploit code against a remote target machine. A must-have for penetration testers.
 
 - #### [sqlmap](https://sqlmap.org/)
-  An open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers.
+  An open source penetration testing tool that automate the process of detecting and exploiting SQL injection flaws and taking over of database servers.
 
 ---
 
@@ -99,7 +99,12 @@ Tools and techniques for gathering credentials, escalating privileges, and persi
 - #### [Mimikatz](https://github.com/gentilkiwi/mimikatz)
   A powerful post-exploitation tool for extracting credentials, performing privilege escalation, and accessing sensitive information from Windows systems.
 
+- #### [GTFOBins](https://gtfobins.github.io/)A curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems.
+
+- #### [LOLBAS](https://lolbas-project.github.io/#) Living Off The Land Binaries, Scripts and Libraries (For Windows environments)
+
 ---
+
 
 ### Miscellaneous
 Additional interesting resources:
