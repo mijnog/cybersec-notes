@@ -6,7 +6,8 @@
 find / -type f -perm -04000 -ls 2>/dev/null
 ```
 
-#### List "Capabilities"
+#### List "Capabilities" of binaries.
+Capabilities are fine-grained privileges that binaries may have.
 ```bash
 getcap -r / 2>/dev/null
 ```
