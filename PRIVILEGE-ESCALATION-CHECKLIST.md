@@ -8,6 +8,8 @@ Run `sudo -l`
 
 Use [GTFOBins](https://gtfobins.github.io/) to find information on how binaries with sudo rights can be used.
 
+---
+
 - #### Look for programs with SUID or GUID bit set
 
 ```bash
@@ -16,6 +18,8 @@ find / -type f -perm -04000 -ls 2>/dev/null
 
 Use [GTFOBins](https://gtfobins.github.io/#+suid) to find attack vectors
 
+---
+
 - #### Find binaries with *Capabilities*
 
 ```bash
@@ -23,6 +27,8 @@ getcap -r / 2>/dev/null
 ```
 
 Use [GTFOBins](https://gtfobins.github.io/) to find attack vectors
+
+---
 
 - #### Look for crontab vulnerabilities
 
@@ -46,4 +52,4 @@ run the command
 
 to run bash in privileged mode.
 
-
+---
