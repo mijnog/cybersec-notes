@@ -99,9 +99,11 @@ Tools and techniques for gathering credentials, escalating privileges, and persi
 - #### [Mimikatz](https://github.com/gentilkiwi/mimikatz)
   A powerful post-exploitation tool for extracting credentials, performing privilege escalation, and accessing sensitive information from Windows systems.
 
-- #### [GTFOBins](https://gtfobins.github.io/)A curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems.
+- #### [GTFOBins](https://gtfobins.github.io/)
+A curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems.
 
-- #### [LOLBAS](https://lolbas-project.github.io/#) Living Off The Land Binaries, Scripts and Libraries (For Windows environments)
+- #### [LOLBAS](https://lolbas-project.github.io/#)
+Living Off The Land Binaries, Scripts and Libraries (For Windows environments)
 
 ---
 
