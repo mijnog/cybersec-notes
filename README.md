@@ -80,6 +80,9 @@ Critical tools for Open-Source Intelligence (OSINT) and network scanning:
 - #### [Nmap](https://nmap.org/)
   A simple yet powerful open-source port scanner that's been continually improving since 1997.
 
+- #### [Gobuster](https://github.com/OJ/gobuster)
+  A great tool for fuzzing endpoints
+
 ---
 
 ### Exploitation
@@ -117,6 +120,8 @@ Additional interesting resources:
 - #### [MalwareTech Blog](https://malwaretech.com/)
   Marcus Hutchins' blog. Incredibly detailed low-level stuff. Fascinating rabbit holes to go down! (Marcus Hutchins is famous for stopping WannaCry).
 
+- #### [SecLists](https://github.com/danielmiessler/SecLists)
+  Thank you Daniel Miessler for such a comprehensive pen-testing wordlist!
 
 ---
 
