@@ -94,6 +94,9 @@ Tools and frameworks for exploit development and vulnerability testing.
 - #### [sqlmap](https://sqlmap.org/)
   An open source penetration testing tool that automate the process of detecting and exploiting SQL injection flaws and taking over of database servers.
 
+- #### [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+  A list of useful payloads and bypasses for Web Application Security.
+
 ---
 
 ### Post-Exploitation 🔓
