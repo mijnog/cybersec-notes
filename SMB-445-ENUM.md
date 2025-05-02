@@ -1,4 +1,4 @@
-## ENUMERATE SHARES ANONYMOUSLY
+## SMB ENUMERATION
 **smbclient**
 - `smbclient -L $VICTIM_IP -N #-L lists shares -N no-user`
 
