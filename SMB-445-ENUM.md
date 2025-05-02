@@ -8,7 +8,7 @@
 - `nmap --script smb-enum* 10.10.10.11`
 - `nmap --script smb-vuln* 10.10.10.11`
 
-# Other tools
+### Other tools
 
 - **smbmap**
 - **crackmapexec**
