@@ -2,8 +2,7 @@
 **smbclient**
 - `smbclient -L $VICTIM_IP -N #-L lists shares -N no-user`
 
-- `smbclient //$VICTIM_IP/$SHARE_NAME -U $USERNAME` 
-the smb server will prompt for the user's password
+- `smbclient //$VICTIM_IP/$SHARE_NAME -U $USERNAME #the smb server will prompt for the user's password`
 
 **nmap**
 - `nmap --script smb-enum* 10.10.10.11`
