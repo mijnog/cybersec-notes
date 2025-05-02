@@ -11,5 +11,5 @@ the smb server will prompt for the user's password
 
 # Other tools
 
-**smbmap**
-**crackmapexec**
+- **smbmap**
+- **crackmapexec**
