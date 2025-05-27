@@ -1,14 +1,25 @@
 - #### Try to upgrade to TTY shell (if you have a basic listener).
-`python -c 'import pty; pty.spawn("/bin/bash")'`
+```bash
+python -c 'import pty; pty.spawn("/bin/bash")'
+```
 or e.g. if that fails:
-`python3 -c 'import pty; pty.spawn("/bin/bash")'`
+```bash
+python3 -c 'import pty; pty.spawn("/bin/bash")'
+```
 
 - #### Check if Kernel / OS is out of date
 
-`uname -a`
-`cat /etc/os-release`
+```bash
+uname -a
+```
+```bash
+cat /etc/os-release
+```
 or
-`cat /etc/*release` for older systems.
+```bash
+cat /etc/*release
+``` 
+for older systems.
 
 Find a known CVE and its related exploits using google/searchsploit. Make sure you understand what the exploit does so as not to break anything on the server.
 
