@@ -1,4 +1,4 @@
-## Cool Links for Cybersecurity 
+## Places to visit if you're just starting out in cyber.
 A page containing bookmarks for anyone interested in learning cybersecurity.
 
 ---
@@ -43,6 +43,9 @@ Resources for setting up a home lab to practice penetration testing and vulnerab
 
 - #### [Damn Vulnerable Web Application (DVWA)](http://www.dvwa.co.uk/)
   DVWA is a deliberately insecure web application that lets you practice common web vulnerabilities like SQL injection, XSS, and more, in a controlled environment.
+
+- #### [MetaSploitable 2](https://docs.rapid7.com/metasploit/metasploitable-2/)
+  Metasploitable 2an intentionally vulnerable Ubuntu Linux virtual machine that is designed for testing common vulnerabilities.
 
 ---
 
@@ -99,7 +102,7 @@ Tools and frameworks for exploit development and vulnerability testing.
 
 ---
 
-### Post-Exploitation 🔓
+### Post-Exploitation
 Tools and techniques for gathering credentials, escalating privileges, and persisting access after an initial compromise.
 
 - #### [Mimikatz](https://github.com/gentilkiwi/mimikatz)
@@ -121,7 +124,7 @@ Additional interesting resources:
   A list of open source malware hosted on github. Easier than reversing in assembly. Can be an eye opener on how various types of malware work.
 
 - #### [MalwareTech Blog](https://malwaretech.com/)
-  Marcus Hutchins' blog. Incredibly detailed low-level stuff. Fascinating rabbit holes to go down! (Marcus Hutchins is famous for stopping WannaCry).
+  Marcus Hutchins' blog. Incredibly detailed low-level stuff. Fascinating rabbit holes to go down! Now includes hands on practical labs using IDA Free. *(Marcus Hutchins is famous for stopping WannaCry).*
 
 - #### [SecLists](https://github.com/danielmiessler/SecLists)
   Thank you Daniel Miessler for such a comprehensive pen-testing wordlist!
