@@ -73,6 +73,6 @@ run the command
 /bin/bash -p
 ```
 
-to run bash in privileged mode.
+to run bash in privileged mode. Without the -p flag, as a safety measure, bash will try to drop its privileges since it detects it's being run with a SUID bit. The -p flag prevents that
 
 ---
