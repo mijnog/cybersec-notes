@@ -13,3 +13,10 @@
 - **smbmap**
 - **crackmapexec**
 - **enum4linux**
+
+#### Connect to a share:
+`smbclient //$VICTIM_IP/Users -U 'username'`
+`smbclient //$VICTIM_IP/Users -U 'guest'`
+`smbclient //$VICTIM_IP/Users -U 'username' -p 'password'`
+Connect to a specific share e.g. `IPC$`
+`smbclient //10.10.234.187/IPC$ -U 'guest'`
