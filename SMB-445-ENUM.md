@@ -5,8 +5,8 @@
 - `smbclient //$VICTIM_IP/$SHARE_NAME -U $USERNAME #the smb server will prompt for the user's password`
 
 **nmap**
-- `nmap --script smb-enum\* $VICTIM_IP
-- `nmap --script smb-vuln\* $VICTIM_IP
+- `nmap --script smb-enum\* $VICTIM_IP`
+- `nmap --script smb-vuln\* $VICTIM_IP`
 
 ### Other tools
 
