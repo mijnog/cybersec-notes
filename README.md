@@ -60,14 +60,11 @@ These platforms connect hackers with companies looking to improve their security
 ## Useful Resources
 Additional tools, platforms, and links for building cybersecurity skills.
 
-### Stealth
-For secure and anonymous browsing:
+### LLM
+For all cyber security use cases:
 
-- #### [Tor](https://www.torproject.org/)
-  Essential for anonymous web browsing.
-
-- #### [Tails OS](https://tails.net/)
-  A privacy-focused OS that can be run from a USB drive.
+- #### [Deep Hat](https://www.deephat.ai/)
+ Uncensored, cybersecurity LLM built for sensitive security and infrastructure work. Can be run locally.
   
 ---
 
