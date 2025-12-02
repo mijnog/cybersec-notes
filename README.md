@@ -16,56 +16,34 @@ A page containing bookmarks for anyone interested in learning cybersecurity.
 ---
 
 ### Learning Platforms
-These platforms are great starting points to build your cybersecurity knowledge and hacking skills.
+Places to go if you're just starting out:
 
 - #### [OverTheWire](https://overthewire.org/wargames/)
-  One of the first links I ever clicked on when I became curious about hacking. Start with *Bandit* to learn command line basics in a fun way, then tackle the harder levels. Old school is cool!
-
-- #### [HackThisSite](https://www.hackthissite.org/)
-  Another old-school hacking training site.
+  Get through bandit to help you get comfy typing basic commands in bash.
 
 - #### [TryHackMe](https://tryhackme.com/)
-  A beginner-friendly CTF website with free and affordable premium content. *Hand-holding* included, so it's perfect for newcomers. For something more challenging, try Hack The Box.
+  Very beginner friendly CTF site. *Hand-holding*. They tend to hold your hand. If you want to be thrown in the deepend, go straight to HackTheBox.
 
 - #### [HackTheBox](https://www.hackthebox.com/)
-  Known for providing a more challenging environment with hands-on labs for developing hacking skills.
+  If you like a bit of a challenge... Great training for OSCP.
 
 - #### [Root-Me](https://www.root-me.org/?lang=en)
-  Root-Me is a well-known platform, but can be tricky to navigate due to language settings that often default to French.
+  Root-Me has a nice collection of CTFs where write-ups are unavailable. If you tend to peek at solutions, this is the place to go. It forces you not to give up.
 
 ---
 
 ### Home Lab
-Resources for setting up a home lab to practice penetration testing and vulnerability discovery.
+If you'd rather set things up yourself and not get "points" on your profile, but give yourself a pat on the back for solving things, try:
 
 - #### [VulnHub](https://www.vulnhub.com/)
-  A platform offering downloadable virtual machines designed for penetration testing practice. A fantastic resource for building hands-on experience with vulnerable systems.
+  A platform offering downloadable virtual machines designed for penetration testing practice. 
 
 - #### [Damn Vulnerable Web Application (DVWA)](http://www.dvwa.co.uk/)
   DVWA is a deliberately insecure web application that lets you practice common web vulnerabilities like SQL injection, XSS, and more, in a controlled environment.
 
 - #### [MetaSploitable 2](https://docs.rapid7.com/metasploit/metasploitable-2/)
-  Metasploitable 2an intentionally vulnerable Ubuntu Linux virtual machine that is designed for testing common vulnerabilities.
+  Metasploitable 2 is an intentionally vulnerable Ubuntu Linux virtual machine that is designed for testing common vulnerabilities.
 
----
-
-### Bug Bounty Platforms
-These platforms connect hackers with companies looking to improve their security.
-
-- #### [HackerOne](https://www.hackerone.com/)
-  A well-known platform for participating in bug bounties and helping secure real-world applications.
-
----
-
-## Useful Resources
-Additional tools, platforms, and links for building cybersecurity skills.
-
-### LLM
-For all cyber security use cases:
-
-- #### [Deep Hat](https://www.deephat.ai/)
- Uncensored, cybersecurity LLM built for sensitive security and infrastructure work. Can be run locally.
-  
 ---
 
 ### Information Gathering
@@ -112,7 +90,6 @@ A curated list of Unix binaries that can be used to bypass local security restri
 Living Off The Land Binaries, Scripts and Libraries (For Windows environments)
 
 ---
-
 
 ### Miscellaneous
 Additional interesting resources:
